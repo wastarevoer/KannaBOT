@@ -20,12 +20,12 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = 'https://telegra.ph/file/02a2903c1e25228285740.jpg'
 let teksbio = `${htki} *BIODATA* ${htka}
-❑ *Nama* :Bara
-❑ *Umur* :13 Tahun
-❑ *Kelas* :1 Smp
+❑ *Nama* :Ataa
+❑ *Umur* :17 Tahun
+❑ *Kelas* :10
 
-❑ *Ulang Tahun* :18 Okto 2008
-❑ *Alamat* : Indonesia,Jawa Barat, Bandung
+❑ *Ulang Tahun* :** **** 2005
+❑ *Alamat* : Indonesia,Jawa Barat, Indramayu
 
 ${htjava} *Instagram:* ${sig}
 ${htjava} *Github:* ${sgh}
